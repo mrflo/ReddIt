@@ -1,7 +1,10 @@
 ReddIt
 ======
 
-ReddIt API Hiring Test
+ReddIt API Hiring Test.
+
+Launch the App and test it by typing this URL : http://localhost:2431/sports?domain=youtube.com
+
 
 
 # Task
